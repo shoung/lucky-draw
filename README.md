@@ -2,7 +2,7 @@
 
 [DEMO地址](https://vitozyf.github.io/lucky-draw/index.html#/?tdsourcetag=s_pctim_aiomsg)
 
-## 使用说明
+## 使用說明
 
 ### 配置建議
 
